@@ -55,7 +55,7 @@ Each movement triggers a smooth, natural action for responsive gameplay.
 
 ```bash
 # Clone the repository
-git clone https://github.com/nileshpar835/motion-controlled-subway-surfers.git
+git clone https://github.com/Nileshpar835/Motion-Controlled-Subway-Surfers-with-One-Hand-Tracking.git
 cd motion-controlled-subway-surfers
 ```
 
